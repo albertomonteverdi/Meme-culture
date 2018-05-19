@@ -8,6 +8,14 @@
 
 - [How to be a memer](https://prezi.com/lm88onil-_bb/how-to-be-a-memer/) - A presentation by Andrew Swagamondriguez
 
+## Examples and repositories
+
+- [http://knowyourmeme.com/](Know Your Meme) - Curated search engine
+
+## People
+
+- [The Story Of The Internet, as Told by Know Your Meme](https://www.theverge.com/2018/3/6/17044344/know-your-meme-10-year-anniversary-brad-kim-interview) - Interview to Brad Kim (KnowYourMeme.com)
+
 - [La gentrificazione dei meme](http://www.rivistastudio.com/standard/meme-facebook-intervista-karbopapero-logo-comune-oznerol-eschaton/) - Interviews to famous Italian memers (in Italian)
 
 ## Authoring
