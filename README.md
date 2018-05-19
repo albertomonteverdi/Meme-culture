@@ -10,7 +10,7 @@
 
 ## Examples and repositories
 
-- [http://knowyourmeme.com/](Know Your Meme) - Curated search engine
+- [Know Your Meme](http://knowyourmeme.com/) - Curated search engine
 
 ## People
 
