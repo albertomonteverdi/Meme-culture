@@ -1,6 +1,6 @@
 # Meme culture
 
-## Language
+## Meme as language
 
 - [What Defines a Meme?](http://www.smithsonianmag.com/arts-culture/what-defines-a-meme-1904778/) - James Gleick traces the cultural foundations of memes as "information-packets with attitude"
 
@@ -12,7 +12,7 @@
 
 - [Know Your Meme](http://knowyourmeme.com/) - Curated search engine
 
-## People
+## Authors
 
 - [The Story Of The Internet, as Told by Know Your Meme](https://www.theverge.com/2018/3/6/17044344/know-your-meme-10-year-anniversary-brad-kim-interview) - Interview to Brad Kim (KnowYourMeme.com)
 
